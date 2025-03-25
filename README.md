@@ -1,4 +1,4 @@
-# Expense Splitter  
+# Expense Splitter  View[https://expense.aadarshsenapati.in/]
 
 Expense Splitter is a web-based application that enables users to manage shared expenses efficiently. It allows users to split bills with friends and groups, track payments, manage transactions, and monitor balances.  
 
@@ -99,3 +99,4 @@ By integrating group and transaction management, the application enables users t
 This project demonstrates a well-structured PHP-MySQL application with robust user authentication, database interactions, and seamless UI functionality, making it a practical tool for real-world expense-sharing scenarios.
 
 ## Deployment
+Visit https://expense.aadarshsenapati.in/ to view
